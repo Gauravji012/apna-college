@@ -2,4 +2,4 @@
 
 This is my first Repository.
 <br>
-author - gaurav khandelwal
+author - gaurav khandelwal (apna college)
